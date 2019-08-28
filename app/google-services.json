@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "181539037969",
+    "firebase_url": "https://ventasproductoservicio.firebaseio.com",
+    "project_id": "ventasproductoservicio",
+    "storage_bucket": "ventasproductoservicio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181539037969:android:c8905240567cfe96",
+        "android_client_info": {
+          "package_name": "com.example.withfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181539037969-pcu08ciiaimqv3j03q1k6lue48mu8plj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXgQuUiz9tZ_IK29dnsByxbn7mDbO9bUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181539037969-pcu08ciiaimqv3j03q1k6lue48mu8plj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

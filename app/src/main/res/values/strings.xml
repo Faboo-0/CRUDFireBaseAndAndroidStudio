@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WithFireBase</string>
+    <string name="title_activity_crud">ActivityCrud</string>
+</resources>
