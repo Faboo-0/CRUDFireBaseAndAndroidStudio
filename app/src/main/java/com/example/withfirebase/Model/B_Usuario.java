@@ -6,7 +6,6 @@ public class B_Usuario {
     private String fbNombre;
     private String fbApellidos;
     private String fbCorreo;
-
     public B_Usuario(){
 
     }

@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">WithFireBase</string>
     <string name="title_activity_crud">ActivityCrud</string>
+    <string name="title_activity_localitation_real_time">Map</string>
 </resources>
